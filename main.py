@@ -9,7 +9,7 @@ async def root():
     return {"message": "Back4app Containers rocks!"}
 
 
-@app.get("/cat-fact")
-def cat_fact():
+@app.get("/catfact")
+def catfact():
     response = requests.get("https://catfact.ninja/fact")
     return {"fact": response.json()["fact"]}
