@@ -2,7 +2,7 @@
 
 This repository demonstrates how to dockerize and deploy a [FastAPI](https://fastapi.tiangolo.com/lo/) application to [Back4app Containers](https://www.back4app.com/container-as-a-service-caas).
 
-To learn more check out the [article](#).
+To learn more check out the [article](https://blog.back4app.com/containers-as-a-service/).
 
 ## Deploy (Docker)
 
